@@ -1,3 +1,5 @@
+package aula01;
+
 public class ContaBancaria {
     private String titular;
     private double saldo;
